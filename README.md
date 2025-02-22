@@ -72,23 +72,4 @@ python test_irrigation.py
 
 ---
 
-## 🔥 Future Improvements
-- Add **real-world weather data** integration.
-- Improve **reward function** for better efficiency.
-- Deploy on **IoT-based smart irrigation systems**.
-
----
-
-## 🤝 Contributing
-Contributions are welcome! Feel free to submit **issues** or **pull requests**.
-
----
-
-## 📝 License
-This project is **MIT Licensed**. Feel free to use and modify.
-
----
-
-## 📩 Contact
-For questions, reach out via **GitHub Issues** or **email** at `your_email@example.com`.
 
